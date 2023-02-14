@@ -1,0 +1,11 @@
+﻿ad_id;start_date;mes_publicacion;end_date;mes_fin;lat;lon;property_type;place_l2;Ciudad;Zona;localidad;Barrio;rooms;bedrooms;completarbedroom;surface_covered;surface_total;completararea;Banos;completarbanos;price;price_USD;distance;dist_cuts;pricexm2;Tiempo;COVID1
+2037156;2019-07-30;2019-07;2020-02-05;2020-02;4.621195959;-74.1105149;Departamento;Cundinamarca;Bogotá D.C;Puente Aranda;Puente Aranda;;;2.1;1;1712;1712;0;1.2;1;685050;205.5322;4.601783397;"(0;5]";0.120053855;190;Antes
+253457;2020-07-13;2020-07;2021-04-26;2021-04;-12.2095337;-76.8538748;Casa;Lima;Lima;Pachacamac;Pachacamac;;;2;0;;648;1;1.7;1;300;79.86;26.52926626;"(25;30]";0.123240741;287;Despues
+229826;2020-03-11;2020-03;2020-06-12;2020-06;-0.3790195;-78.50540447;Departamento;Pichincha;Quito;Amaguaña;Amaguaña;;;2.83;1;;1166.666667;1;1.35;1;165;165;18.77975473;"(15;20]";0.141428571;93;Antes
+170893;2019-10-08;2019-10;2019-10-29;2019-10;-0.215000004;-78.36000061;Casa;Pichincha;Quito;Valle Tumbaco;Puembo;;4;4;0;;3500;0;1.35;1;500;500;16.87117387;"(15;20]";0.142857143;21;Antes
+130276;2019-07-14;2019-07;2019-09-01;2019-09;-0.131999999;-78.45500183;Casa;Pichincha;Quito;San Isidro del Inca;San Isidro del Inca;;2;1;0;;2000;0;1.3;1;300;300;10.74147332;"(10;15]";0.15;49;Antes
+6247012;2021-05-17;2021-05;2021-05-17;2021-05;-34.5920435;-58.3867803;Departamento;Capital Federal;Buenos aires;Recoleta;;;6;4;0;339;339;0;1;0;4800;51.1;2.040767238;"(0;5]";0.150737463;0;Despues
+2643575;2020-03-10;2020-03;2020-08-24;2020-08;4.672592567;-74.04870987;Departamento;Cundinamarca;Bogotá D.C;Chapinero;Chapinero;Chico Reservado;;2.3;1;1193;1193;0;1.25;1;799256;209.5351641;8.816899792;"(5;10]";0.175637187;167;Antes
+401589;2020-11-03;2020-11;2020-12-28;2020-12;-0.3811588;-78.5036065;Departamento;Pichincha;Quito;Amaguaña;Amaguaña;;4;3;0;;1166.666667;1;1.35;1;220;220;19.02582671;"(15;20]";0.188571429;55;Despues
+2094871;2019-09-06;2019-09;2020-02-03;2020-02;4.689051848;-74.07581091;Departamento;Cundinamarca;Bogotá D.C;Suba;Suba;;;2.5;1;1500;1500;0;1.3;1;1050000;315.0263;10.11031948;"(10;15]";0.210017533;150;Antes
+5033546;2020-05-22;2020-05;2020-05-22;2020-05;-34.5787428;-58.4029536;Departamento;Capital Federal;Buenos aires;Palermo Chico;;;5;4;0;200;237;0;1;0;3500;51.53;3.576547289;"(0;5]";0.21742616;0;Despues
